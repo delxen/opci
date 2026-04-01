@@ -29,3 +29,4 @@ Homestead.json
 .phpactor.json
 auth.json
 /database/database.sqlite
+CLAUDE.local.md
